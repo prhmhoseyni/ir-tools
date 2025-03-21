@@ -1,0 +1,36 @@
+{
+  "private": false,
+  "type": "commonjs",
+  "name": "ir-tools",
+  "description": "a set of Persian helpers for Node.js to make develop easier.",
+  "version": "0.1.0",
+  "author": "Parham Hoseyni",
+  "license": "MIT",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "",
+    "directory": ""
+  },
+  "bugs": {
+    "email": "prhmhoseyni@gmail.com",
+    "url": "https://github.com/prhmhoseyni"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.13.11",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6",
+    "typescript": "^5.8.2"
+  }
+}
