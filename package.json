@@ -6,15 +6,15 @@
   "version": "0.1.0",
   "author": "Parham Hoseyni",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/prhmhoseyni/ir-tools",
   "repository": {
     "type": "git",
-    "url": "",
-    "directory": ""
+    "url": "https://github.com/prhmhoseyni/ir-tools",
+    "directory": "/"
   },
   "bugs": {
     "email": "prhmhoseyni@gmail.com",
-    "url": "https://github.com/prhmhoseyni"
+    "url": "https://github.com/prhmhoseyni/ir-tools/issues"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
